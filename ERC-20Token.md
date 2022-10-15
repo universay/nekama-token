@@ -18,6 +18,8 @@ mkdir scripts
 
 ## 2. Write ERC-20 Token Smart Contract
 
+[Hardhat](https://hardhat.org/tutorial/deploying-to-a-live-network)
+
 
 
 
