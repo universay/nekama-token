@@ -8,11 +8,11 @@ pragma solidity ^0.8.9;
 // これは、スマートコントラクトの主要な構成要素である。
 contract Token {
     // トークンを識別するためのいくつかの文字列型変数。
-    string public name = "My Hardhat Token";
-    string public symbol = "MHT";
+    string public name = "My NEKAMA Token";
+    string public symbol = "NEKAMA";
 
     // 符号なし整数型変数に格納される、トークンの固定量。
-    uint256 public totalSupply = 1000000;
+    uint256 public totalSupply = 10000000;
 
     // アドレス型変数は、イーサリアムのアカウントを格納するために使用されます。
     address public owner;
