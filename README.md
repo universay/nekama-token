@@ -18,9 +18,15 @@ sudo git remote add universay https://github.com/universay/nekama-token.git
 sudo chown -R tomato /home/tomato/projects/Alchemy
 ```
 
+
+Deploying contracts with the account: 0xC6A466053Cdb44e67688fE6c2de85e1614A31cc2
+Account balance: 55227955982233637
+Token address: 0x57B95B15CFEd9a67Ab131a660938A1A5EF16ebc6
+
+
 ## 実行
 ```
-npx hardhat run scripts/deploy.js --network matic
+npx hardhat run scripts/deploy.js --network polygon
 ```
 
 ## Alchemy
